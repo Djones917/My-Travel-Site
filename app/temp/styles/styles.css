@@ -1,0 +1,9 @@
+/* Styles css */
+
+/* Note: We could import the _large-hero into this with @import "modules/_large-hero" */
+
+img {
+	max-width: 100%; /* We used this because the main image was so big that it was scrolling! */
+	height: auto;
+}
+

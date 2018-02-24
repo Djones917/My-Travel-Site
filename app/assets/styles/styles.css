@@ -1,5 +1,15 @@
 /* Styles css */
 
+/* Note: We could import the _large-hero into this with @import "modules/_large-hero" */
+@import "modules/_large-hero"
+
 body {
-	color: red;
+	font-family: 'Roboto', sans-serif;
+	color: #333;
 }
+
+img {
+	max-width: 100%; /* We used this because the main image was so big that it was scrolling! */
+	height: auto;
+}
+
