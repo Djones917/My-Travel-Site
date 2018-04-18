@@ -1,0 +1,9 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #333;
+}
+
+img {
+	max-width: 100%; /* We used this because the main image was so big that it was scrolling! */
+	height: auto;
+}
